@@ -1,6 +1,6 @@
 # Yar_Cher
-hehe
-I WIN
+__hehe__
+*I WIN*
 |Name|Surname|Age|
 |-|-|-|
 |Yaroslav|Chernyck|17|
